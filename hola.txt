@@ -1,0 +1,6 @@
+Hola, este es mi primer fichero usando Git.
+
+Mi nombre es Fernando
+
+Estoy aprendiendo a utilizar Git.
+
